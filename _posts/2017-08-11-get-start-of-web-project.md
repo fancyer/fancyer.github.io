@@ -59,7 +59,9 @@ constructing...
 别人给的源码，或者从git上克隆下来的源码，是无法直接运行的，需要自己编译。仍然以上文的vue模板为例:
 
 1. 终端/命令行 cd 进入项目的根目录；
-2. 运行 `npm install` 自动安装需要的模块（配置在 `package.json` 里），这时候会自动建立 `node_moudules` 目录；
+2. 运行 `npm install` 自动安装需要的模块，这时候会自动建立 `node_moudules` 目录；
+    * `package.json` 的 `dependencies` 字段存放项目需要的模块，会被打包进产品
+    * `package.json` 的 `devDependencies` 字段存放的是开发时需要用到模块，不会被打包到产品
 3. `package.json` 的 `scripts` 字段一般存放着打包、测试的命令，例如:
     ```
     "scripts": {
