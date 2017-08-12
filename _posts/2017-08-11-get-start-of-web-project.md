@@ -11,7 +11,9 @@ tags:
 
 ## 基础环境
 
-首先安装 node.js ：[官网下载](https://nodejs.org/en/download/)
+首先安装 node.js ：[下载](https://nodejs.org/en/download/)
+
+其次安装 git: [安装说明](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 
 安装 node.js 会顺带安装 npm ，这是前端项目的核心工具。
 
@@ -79,4 +81,5 @@ constructing...
   * [下载 Ruby](https://rubyinstaller.org/downloads/)安装，安装时要勾选 `Add Ruby executables to your PATH`；
   * 安装之后，在开始菜单中找到ruby，打开Start Command Prompt with Ruby, 输入 `gem install sass`，回车确认；
   * 等待提示sass安装成功
+  
 > 安装 `sass` 也会遇到墙的问题，可参考[淘宝镜像安装sass](http://www.w3cplus.com/sassguide/install.html)
