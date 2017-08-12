@@ -1,18 +1,19 @@
 ---
 layout:     post
-title:      "Welcome to Hux Blog"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+title:      "web前端工程的一些基础概念"
+subtitle:   ""
+date:       2017-08-11 12:00:00
+author:     "Fancyer"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 生活
+    - JavaScript, web, 前端
 ---
 
-> “Yeah It's on. ”
+## 基础设施
 
+首先当然是安装node.js。
 
-## 前言
+## 简单的项目结构
 
 Hux 的 Blog 就这么开通了。
 
