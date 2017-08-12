@@ -1,9 +1,9 @@
 # Site settings
 title: 树荫旅店
 SEOTitle: 树荫旅店 | Shady Rest
-header-img: img/home-bg.jpg
+header-img: img/home-bg-o.jpg
 email: fancyer.hou@qq.com
-description: ""
+description: "你看到一面被大火熏黑的盾牌"
 keyword: ""
 url: "http://facyer.net"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
