@@ -75,9 +75,8 @@ constructing...
 
 * 项目中用到的一些模块，可能需要其他的前置模块，有些前置模块需要用户自己预先安装。要仔细阅读npm的提示。
 
-* 前端项目中常常使用 `sass` 或者 `less` . 其中 `sass` 依赖 `ruby` 语言环境，windows系统需要手动安装。
+* 前端项目中常常使用 `sass` 或者 `less` . 其中 `sass` 依赖 `ruby` 语言环境，windows系统需要手动安装:
   * [下载 Ruby](https://rubyinstaller.org/downloads/)安装，安装时要勾选 `Add Ruby executables to your PATH`；
   * 安装之后，在开始菜单中找到ruby，打开Start Command Prompt with Ruby, 输入 `gem install sass`，回车确认；
   * 等待提示sass安装成功
-  
 > 安装 `sass` 也会遇到墙的问题，可参考[淘宝镜像安装sass](http://www.w3cplus.com/sassguide/install.html)
